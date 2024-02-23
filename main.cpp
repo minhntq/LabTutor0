@@ -11,6 +11,6 @@ int main() {
         cout << "\n 5) ";
         cin  >> choice;
     } while (choice != 5);
-    cout << "Hello, World!" << std::endl;
+    cout << "Hello, World!" << endl;
     return 0;
 }
